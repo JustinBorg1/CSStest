@@ -39,14 +39,6 @@
           "location": "Mosta",
           "date": "1st of Feb",
           "time": "16.00"
-        },
-        {
-          "id": 6,
-          "title": "Task 6",
-          "description": "Description for Task 6",
-          "location": "Birgu",
-          "date": "21st of March",
-          "time": "12.00"
         }
       ]
 }
