@@ -3,7 +3,7 @@
         {
           "id": 1,
           "title": "Task 1 - Test",
-          "description": "Description for Task 1",
+          "description": "Description for Task 1: Testing",
           "location": "Valletta",
           "date": "1st of Jan",
           "time": "12.00"
